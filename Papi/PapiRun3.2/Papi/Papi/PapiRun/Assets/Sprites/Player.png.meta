@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 22ce4dc6c56094d4ebcf29768618a8db
+timeCreated: 1477664673
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cabeza
+    21300002: PierIzqSup
+    21300004: Player_2
+    21300006: BzoIzqSup
+    21300008: BzoDerSup
+    21300010: Cuerpo
+    21300012: PierIzqInf
+    21300014: ManoIzq
+    21300016: ManoDer
+    21300018: PierDerInf
+    21300020: BzoIzqInf
+    21300022: BzoDerInf
+    21300024: PieIzq
+    21300026: PieDer
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 831
+        width: 127
+        height: 170
+      alignment: 9
+      pivot: {x: .370295316, y: .146610752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PierIzqSup
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 701
+        width: 147
+        height: 298
+      alignment: 9
+      pivot: {x: .550569892, y: .886655271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_2
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 691
+        width: 147
+        height: 298
+      alignment: 9
+      pivot: {x: .550569475, y: .878340125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BzoIzqSup
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 563
+        width: 83
+        height: 202
+      alignment: 9
+      pivot: {x: .558371782, y: .907735109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BzoDerSup
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 563
+        width: 83
+        height: 202
+      alignment: 9
+      pivot: {x: .581720531, y: .907735109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 485
+        width: 153
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PierIzqInf
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 305
+        width: 121
+        height: 232
+      alignment: 9
+      pivot: {x: .675489664, y: .876876712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ManoIzq
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 370
+        width: 57
+        height: 96
+      alignment: 9
+      pivot: {x: .382392496, y: .86467427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ManoDer
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 370
+        width: 56
+        height: 96
+      alignment: 9
+      pivot: {x: .382157475, y: .86467427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PierDerInf
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 293
+        width: 121
+        height: 232
+      alignment: 9
+      pivot: {x: .685812712, y: .876876831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BzoIzqInf
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 111
+        width: 79
+        height: 174
+      alignment: 9
+      pivot: {x: .315385759, y: .936557651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BzoDerInf
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 113
+        width: 79
+        height: 174
+      alignment: 9
+      pivot: {x: .338462353, y: .940049946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PieIzq
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 141
+        width: 138
+        height: 66
+      alignment: 9
+      pivot: {x: .32802549, y: .802806497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PieDer
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 122
+        width: 138
+        height: 66
+      alignment: 9
+      pivot: {x: .300871909, y: .746030629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
